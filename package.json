@@ -1,8 +1,8 @@
 {
-    "name": "Sadlers-React-Portfolio",
+    "name": "React-Portfolio",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://lynnadelesadler.github.io/Sadlers-React-Portfolio",
+    "homepage": "https://lynnadelesadler.github.io/React-Portfolio",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^1.2.35",
         "@fortawesome/free-solid-svg-icons": "^5.15.3",
